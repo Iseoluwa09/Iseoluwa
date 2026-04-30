@@ -39,6 +39,7 @@ I am actively seeking apprenticeship or entry-level opportunities in cybersecuri
 **
 
 ## Get in Touch
-https://www.linkedin.com/in/iseoluwa-ogunnaike-337bb9283/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/iseoluwa-ogunnaike-337bb9283/)
+
 - 
 - 
